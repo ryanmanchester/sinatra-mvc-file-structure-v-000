@@ -19,4 +19,5 @@ class Dog
     #binding.pry
     self.class.all << self
   end
+  binding.pry
 end
